@@ -2,7 +2,7 @@
 Simple OSPF scenario 🌐
 </h1>
 
-<h2 align = center> <img align="center" src="https://github.com/SNMP-Python/gns3-simple-scenario/ospf-simple.png" /> </h2>
+<h2 align = center> <img align="center" src="https://github.com/SNMP-Python/gns3-simple-scenario/blob/main/ospf-simple.png" /> </h2>
 
 ## Configure tap0 interface
     
