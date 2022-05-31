@@ -106,6 +106,15 @@
                 "x": -417,
                 "y": -52,
                 "z": 2
+            },
+            {
+                "drawing_id": "730a6e54-a44e-4b6b-88cb-0a68aff74dd7",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"86\" height=\"44\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#0000ff\" fill-opacity=\"1.0\">Loopback 0  \n13.0.0.1</text></svg>",
+                "x": -383,
+                "y": 17,
+                "z": 2
             }
         ],
         "links": [
