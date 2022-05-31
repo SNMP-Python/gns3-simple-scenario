@@ -11,3 +11,9 @@ tunctl -t tap0 -u username
 ip link set tap0 up
 ip addr add 10.0.0.3/8 dev tap0
 ```
+
+## Enable SNMP on a router
+
+```
+snmp-server community rocom RO
+```

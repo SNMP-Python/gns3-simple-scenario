@@ -349,7 +349,7 @@
                 "compute_id": "local",
                 "console": null,
                 "console_auto_start": false,
-                "console_type": null,
+                "console_type": "none",
                 "custom_adapters": [],
                 "first_port_name": null,
                 "height": 71,
@@ -392,11 +392,6 @@
                             "name": "lo",
                             "special": true,
                             "type": "ethernet"
-                        },
-                        {
-                            "name": "tap0",
-                            "special": false,
-                            "type": "tap"
                         },
                         {
                             "name": "wlo1",
