@@ -31,8 +31,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"55\" height=\"26\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.0.0.2</text></svg>",
-                "x": -295,
-                "y": 47,
+                "x": -300,
+                "y": 54,
                 "z": 2
             },
             {
@@ -184,7 +184,7 @@
             },
             {
                 "filters": {},
-                "link_id": "81af3703-29f8-4fa1-95ec-d491463124b0",
+                "link_id": "e0442e06-8041-489a-a0b8-dd7d4d11f1dd",
                 "link_style": {},
                 "nodes": [
                     {
@@ -263,11 +263,6 @@
                             "name": "lo",
                             "special": true,
                             "type": "ethernet"
-                        },
-                        {
-                            "name": "tap0",
-                            "special": false,
-                            "type": "tap"
                         },
                         {
                             "name": "wlo1",
